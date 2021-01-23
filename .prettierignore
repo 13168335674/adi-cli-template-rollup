@@ -1,0 +1,16 @@
+yarn.lock
+yarn-error.log
+dist/
+bin/
+CNAME
+LICENSE
+netlify.toml
+*.sh
+*.snap
+.gitignore
+.npmignore
+.prettierignore
+.DS_Store
+.editorconfig
+.eslintignore
+**/*.yml
